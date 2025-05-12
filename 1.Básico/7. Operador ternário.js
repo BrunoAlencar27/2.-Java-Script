@@ -5,5 +5,4 @@ Data:21/04/25
 */
 const idade = 18;
 const podeDirigir = idade>=18 ? "Sim":"Não";//Operador ternário
-
 console.log("Você pode digir ?",podeDirigir);
