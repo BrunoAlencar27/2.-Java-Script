@@ -1,6 +1,11 @@
+/*
+Trabalhando a imprecisão dos números de ponto flutuante 
+apenas com lógica
+Autor:Bruno Alencar Alves
+Data:14/05/25
+*/
 let num1 = 0.7;
 let num2 = 0.1;
-
 
 num1 = ((num1*10)+(num2*10))/10;
 num1 = ((num1*10)+(num2*10))/10;

@@ -4,8 +4,8 @@ Autor:Bruno Alencar Alves
 Data:16/05/25
 */
 
-//Padrão: IEE 754-2008
-
+/*Padrão: IEE 754-2008, pradão adotado pelo o js para a 
+imprecisão dos numeros de ponto flutuante*/
 let num1 = 0.7;
 let num2 = 0.1;
 
