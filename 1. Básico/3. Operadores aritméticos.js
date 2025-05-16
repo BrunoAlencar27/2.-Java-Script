@@ -1,5 +1,5 @@
 /*
-Exemplo operadores aritméticos e seus usos
+Descrioção: Exemplo operadores aritméticos e seus usos
 Autor:Bruno Alencar Alves
 Data:21/04/25
 */
