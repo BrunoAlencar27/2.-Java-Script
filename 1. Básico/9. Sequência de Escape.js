@@ -1,5 +1,5 @@
 /*
-Algumas Sequências de Escape mais utilizadas
+Descrição:Algumas Sequências de Escape mais utilizadas
 Autor:Bruno Alencar Alves
 Data:12/05/25
  */

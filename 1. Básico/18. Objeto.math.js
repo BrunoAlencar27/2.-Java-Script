@@ -1,5 +1,5 @@
 /*
-Trabalhando com a biblioteca Objeto Math
+Descrição:Trabalhando com a biblioteca Objeto Math
 Autor:Bruno Alencar Alves
 Data:15/05/25
 */

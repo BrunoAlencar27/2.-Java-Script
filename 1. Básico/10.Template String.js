@@ -1,5 +1,5 @@
 /*
-Uso de template string
+Descrição:Uso de template string
 Autor:Bruno Alencar Alves
 Data:12/05/25
 */

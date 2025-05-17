@@ -1,5 +1,5 @@
 /*
-Exemplo de operadores relacionais e seus usos
+Descrição:Exemplo de operadores relacionais e seus usos
 Autor:Bruno Alencar Alves
 Data:21/04/25
 */

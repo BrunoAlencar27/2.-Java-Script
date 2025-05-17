@@ -1,5 +1,5 @@
 /*
-Algumas funções mais utilizadas para strings
+Descrição:Algumas funções mais utilizadas para strings
 Autor:Bruno Alencar Alves
 Data:12/05/25
 */

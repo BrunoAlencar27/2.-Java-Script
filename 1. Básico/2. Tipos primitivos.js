@@ -1,5 +1,5 @@
 /*
-Desriçõa: Exemplo de tipos primitivos e seus usos
+Descrição:Exemplo de tipos primitivos e seus usos
 Autor: Bruno Alencar Alves
 Data: 21/04/25
 */

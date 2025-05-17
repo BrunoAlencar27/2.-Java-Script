@@ -1,5 +1,5 @@
 /**
-Declarção de Strings
+Descrição:Declarção de Strings
 Autor:Bruno Alencar Alves
 Data:22/04/25
  */

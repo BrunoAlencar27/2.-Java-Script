@@ -1,5 +1,5 @@
 /*
-Tratando imprecisão dos numbers com parseFloat
+Descrição:Tratando imprecisão dos numbers com parseFloat
 Autor:Bruno Alencar Alves
 Data:16/05/25
 */

@@ -1,5 +1,5 @@
 /*
-Trabalhando com toFixed 
+Descrição:Trabalhando com toFixed 
 Autor:Bruno Alencar Alves
 Data:14/05/25
 */

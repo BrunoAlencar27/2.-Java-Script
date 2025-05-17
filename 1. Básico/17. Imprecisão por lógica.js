@@ -1,5 +1,5 @@
 /*
-Trabalhando a imprecisão dos números de ponto flutuante 
+Descrição:Trabalhando a imprecisão dos números de ponto flutuante 
 apenas com lógica
 Autor:Bruno Alencar Alves
 Data:14/05/25

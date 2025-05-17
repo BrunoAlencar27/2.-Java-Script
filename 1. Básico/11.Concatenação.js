@@ -1,5 +1,5 @@
 /*
-Concatenação de strings e elementos
+Descrição:Concatenação de strings e elementos
 Autor:Bruno Alencar Alves
 Data:12/05/25
 */

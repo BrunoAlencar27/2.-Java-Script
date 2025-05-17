@@ -1,5 +1,5 @@
 /*
-Tratando imprecisão dos numbers com toFixed
+Descrição:Tratando imprecisão dos numbers com toFixed
 Autor:Bruno Alencar Alves
 Data:16/05/25
 */

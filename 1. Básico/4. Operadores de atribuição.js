@@ -1,5 +1,5 @@
 /*
-Descrição: Exemplo de operadores de atribuições e seus usos
+Descrição:Exemplo de operadores de atribuições e seus usos
 Autor:Bruno Alencar Alves
 Data:21/04/25
 */
