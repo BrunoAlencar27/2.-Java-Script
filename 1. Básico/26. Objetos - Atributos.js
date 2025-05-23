@@ -1,5 +1,5 @@
 /*
-Descrição: Trabalhando com a declarção de objetos
+Descrição: Trabalhando com a declarção de objetos e atributos do mesmo
 Autor: Bruno Alencar Alves
 Data: 20/05/2025
 */
