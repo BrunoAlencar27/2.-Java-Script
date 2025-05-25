@@ -21,3 +21,7 @@ console.log(var1,var2);
 //Provando que são dependente, altero em var1 e se altera em var2
 var1.nome="Balens";
 console.log(var1,var2);
+
+
+
+console.log(b);
