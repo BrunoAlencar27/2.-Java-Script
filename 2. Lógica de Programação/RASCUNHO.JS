@@ -1,5 +1,5 @@
 
 
-console.log(nome);
+const marcoZero = new Date(0);
 
-var nome = "Bruno";
+console.log(marcoZero.toString());
