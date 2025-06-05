@@ -2,9 +2,9 @@
 2.Objeto Date(Concluído).
 3.Estruturas de seleção(Concluído).
 4.Estruturas de repetição(Concluído).
-5.Break e continue.
-6.Atribuição via desestruturação para arrays.
-7.Atribuição via desestruturação para objetos.
-8.Tratando e lançando erros.
-9.setInterval e setTimeout.
-10.DOM e árvore DOM.
+5.Break e continue().
+6.Atribuição via desestruturação para arrays().
+7.Atribuição via desestruturação para objetos().
+8.Tratando e lançando erros().
+9.setInterval e setTimeout().
+10.DOM e árvore DOM().

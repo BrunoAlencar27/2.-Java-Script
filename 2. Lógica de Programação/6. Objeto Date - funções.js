@@ -15,3 +15,4 @@ console.log(`Horas:${dataAtual.getHours()}`);
 console.log(`Minutos:${dataAtual.getMinutes()}`);
 console.log(`segundos:${dataAtual.getSeconds()}`);
 console.log(`Milisegundos:${dataAtual.getMilliseconds()}`);
+console.log(dataAtual);
