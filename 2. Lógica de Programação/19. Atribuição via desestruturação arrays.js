@@ -4,7 +4,7 @@ Autor: Bruno Alencar Alves
 Data: 05/06/25
 */
 
-//Definição
+//Sintaxe de declaração
 const array = [1,2,3,4,5];
 const[a,b,c,d,e] = array;
 console.log(a,b,c,d,e);
