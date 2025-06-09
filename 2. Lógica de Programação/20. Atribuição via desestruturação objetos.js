@@ -31,3 +31,13 @@ let pessoa3 = {
 };
 const {nome3:nome_da_pessoa,idade3,peso3}=pessoa3;
 console.log(nome_da_pessoa,idade3,peso3);
+
+//Operador rest
+let pessoa4 = {
+    nome4:"Bruno",
+    idade4:24,
+    peso4:81,
+};
+const {nome4,...resto}=pessoa4;
+
+console.log(resto);
