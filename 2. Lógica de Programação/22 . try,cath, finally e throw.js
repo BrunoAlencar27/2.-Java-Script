@@ -1,5 +1,5 @@
 /*
-Descrição:Trabalhando com setInterval, setTimeout e clearInterval
+Descrição:Trabalhando com try, cath, finally e throw
 Autor: Bruno Alencar Alves
 Data: 10/06/25
 */
