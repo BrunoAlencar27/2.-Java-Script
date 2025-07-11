@@ -19,14 +19,14 @@ function Produto(nome,preco, quantidade){
         if(unidades>this.quantidade){
             console.log("Erro: falta no estoque");
         }else{
-            const baixa = this.quantidade-unidades;
-            this.quantidade=baixa;
+            this.quantidade-=unidades;
         }
     };
+
     this.repor=function(unidades){
-        reposicao=this.quantidade+unidades;
-        this.quantidade=reposicao;
+        this.quantidade+=unidades;
     };
+    
     this.mostrarEstoque=function(){
         console.log(this.nome,this.quantidade);
 
