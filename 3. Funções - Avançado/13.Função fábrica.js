@@ -9,7 +9,7 @@ function fabrica(nome,idade,peso){
         nome,
         idade,
         peso,
-
+        
         fala(){
             console.log("Chamou?");
         },

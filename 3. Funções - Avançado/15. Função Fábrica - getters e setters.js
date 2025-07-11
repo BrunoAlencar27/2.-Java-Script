@@ -7,10 +7,6 @@ Data: 06/07/25
 function fabrica(nome){
     return {
         nome,
-        idade,
-        peso,
-        altura,
-        nacionalidade,
         //usando o método get para exibir o nome
         get Falanome(){
             return this.nome;
