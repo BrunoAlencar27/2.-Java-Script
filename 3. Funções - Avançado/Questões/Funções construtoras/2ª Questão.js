@@ -1,10 +1,3 @@
-/*
-Questão:Cire uma função construtora chamada "Aluno" que deve receber nome,
-matríocula e notas(array com 3 notas);Além disso a função deve ter dois 
-métodos, um para calcular e informar a métida do aluno e outro para 
-informar a situação do aluno(aprovador, reprovado ou de recuperação).
-*/
-
 function Aluno(nome,matricula,notas){
     this.nome=nome;
     this.matricula=matricula;

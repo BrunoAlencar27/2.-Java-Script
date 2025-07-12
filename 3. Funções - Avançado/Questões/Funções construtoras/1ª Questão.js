@@ -1,8 +1,3 @@
-/*
-Questão: Crie uma função construtora "Carro" que tenha os seguintes atributos marca,
-modelo e ano. Além disso um método para mostrar as informações sobre o carro.
-*/
-
 function Carro(marca,modelo,ano){
     this.marca=marca;
     this.modelo=modelo;
