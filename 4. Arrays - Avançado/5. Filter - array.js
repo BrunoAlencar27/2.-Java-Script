@@ -1,5 +1,5 @@
 /*
-Descrição: Trabalhando com função filter, exemplo 
+Descrição: Trabalhando a função filte com arrays
 filtrando os números pares
 Autor: Bruno Alencar Alves
 Data: 18/07/25

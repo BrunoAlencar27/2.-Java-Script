@@ -1,7 +1,16 @@
-let tarefas = ["Acordar", "Estudar", "Treinar", "Ler", "Dormir"];
+const pessoas = [
+    {nome:"Luiz",idade:62},
+    {nome:"Maria",idade:23},
+    {nome:"Eduardo",idade:55},
+    {nome:"Leticia",idade:19},
+    {nome:"Rosana",idade:32},
+    {nome:"Wallace",idade:47},
+];
 
-tarefas.splice(2,1);
-tarefas.splice(2,1,"Programar");
-tarefas.splice(1,0,"Tomar café");
+function callback(valor,i){
+    return {idade:valor.idade};
+}
 
-console.log(tarefas);
+
+const newArray = pessoas.map(callback);
+console.log(newArray);

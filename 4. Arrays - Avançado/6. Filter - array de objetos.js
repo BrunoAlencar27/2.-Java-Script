@@ -1,5 +1,5 @@
 /*
-Descrição: Trabalhando com função filter, exemlpo 
+Descrição: Trabalhando a função filter com arrays de objetos
 filtrando nomes de pessoas
 Autor: Bruno Alencar Alves
 Data: 18/07/25
