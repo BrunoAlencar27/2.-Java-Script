@@ -7,10 +7,9 @@ const pessoas = [
     {nome:"Wallace",idade:47},
 ];
 
-function callback(valor,i){
-    return {idade:valor.idade};
-}
+const soma = pessoas.reduce(function(acumulador,valor){
+    acumulador+=valor.idade;
+    return acumulador;
+},0);
 
-
-const newArray = pessoas.map(callback);
-console.log(newArray);
+console.log(`Soma das idades:${soma}`);
