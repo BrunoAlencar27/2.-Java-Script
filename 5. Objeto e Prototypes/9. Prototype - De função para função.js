@@ -8,14 +8,15 @@ Autor:Bruno Alencar Alves
 function Produto(nome,preco){
     this.nome=nome;
     this.preco=preco;
-
-    Produto.prototype.desconto = function(percentual){
-        this.preco-=(this.preco*(percentual/100));
-    }
 }
 
+Produto.prototype.desconto = function(percentual){
+        this.preco-=(this.preco*(percentual/100));
+    }
+
 function Camisa(nome,preco){
-    Produto.call(this,nome,preco);
+    this.nome=nome;
+    this.preco=preco;
 }
 
 Camisa.prototype=Object.create(Produto.prototype);
