@@ -32,7 +32,7 @@ function Tenis(nome,preco,cor,tamanho){
     this.tamanho=tamanho;
 }
 
-//Estabelecendo um herança via prototipal indireta entre Produto -> Camisa e Tenis
+//Estabelecendo uma herança via prototipal indireta entre Produto -> Camisa e Tenis
 Camisa.prototype = Object.create(Produto.prototype);
 Tenis.prototype = Object.create(Produto.prototype);
 
