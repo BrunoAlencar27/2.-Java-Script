@@ -1,22 +1,9 @@
 //Só um rascunho...
 
-const minhaPromise = new Promise((resolve,reject)=>{
-    setTimeout(()=>{
-        const deuCerto = true;
-        if(deuCerto == true){
-            resolve('Deu certo');
-        }else{
-            reject('Deu erado');
-        }
-    },2000);
-    
-})
+const minhaPromise = Promise.resolve('Resolvida');
+const minhaPromise2 = Promise.reject('Erro')
 
-minhaPromise
-    .then((qualquer)=>{
-        console.log(qualquer);
 
-    })
-    .catch((errado)=>{
-        console.log(errado);
-    })
+minhaPromise.then(resultado => {console.log(resultado)});
+
+minhaPromise2.catch(erro => {console.log(erro)});
