@@ -23,16 +23,12 @@ function setTime(msg,tempo){
 }
 
 async function executaPromises (){
-    try{
-        const frase1 = await setTime('Frase 1', random(1,3));
-        console.log(frase1);
-        const frase2 = await setTime(1111, random(1,3));
-        console.log(frase2);
-        const frase3 = await setTime('Frase 3', random(1,3));
-        console.log(frase2);
-    }catch(e){
-        console.log(e);
-    }
+    const frase1 = await setTime('Frase 1', random(1,3));
+    console.log(frase1);
+    const frase2 = await setTime(1111, random(1,3));
+    console.log(frase2);
+    const frase3 = await setTime('Frase 3', random(1,3));
+    console.log(frase2);
 }
 
 executaPromises();
