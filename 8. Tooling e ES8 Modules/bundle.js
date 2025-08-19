@@ -1,0 +1,2 @@
+//Versão atual
+"use strict";
