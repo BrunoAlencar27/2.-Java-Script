@@ -1,12 +1,19 @@
-const path = required('path');
+const path = require('path');
 
 module.exports = {
-    //arquivos de entrada e saída
     mode:'development',
-    entry: './src/index.js',
+    entry:'./src/index.js',
     output:{
-        path:path.resolve(__dirname,'public','assets','js',),
+        path:path.resolve(__dirname,'public','assets','js'),
         filename:'bundle.js'
-
     },
+    module:{
+        rules:[{
+            test: /\.js/,
+            exclude:/nome_modules/,
+            use:{
+                loader:'babel-loader'
+            }
+        }]
+    }
 }
