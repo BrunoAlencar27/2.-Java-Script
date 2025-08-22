@@ -14,9 +14,9 @@
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _modulo_1_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modulo 1.js */ \"./src/modulo 1.js\");\n//importação - exportação nomeada por lita\n\nconsole.log(_modulo_1_js__WEBPACK_IMPORTED_MODULE_0__.nome, _modulo_1_js__WEBPACK_IMPORTED_MODULE_0__.sobrenome);\nconsole.log((0,_modulo_1_js__WEBPACK_IMPORTED_MODULE_0__.soma)());\n\n//# sourceURL=webpack://2.-webpack/./src/index.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\nObject(function webpackMissingModule() { var e = new Error(\"Cannot find module 'core-jse/stable'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\nObject(function webpackMissingModule() { var e = new Error(\"Cannot find module 'regenerator-runtime/runtime'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n/* harmony import */ var _modulo_1_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modulo 1.js */ \"./src/modulo 1.js\");\n//Importação das bibliotecas core-js e regeneretor-runtime\n\n\n\n//importação - exportação nomeada por lita\n\nconsole.log(_modulo_1_js__WEBPACK_IMPORTED_MODULE_1__.nome, _modulo_1_js__WEBPACK_IMPORTED_MODULE_1__.sobrenome);\nconsole.log((0,_modulo_1_js__WEBPACK_IMPORTED_MODULE_1__.soma)(1, 2));\n\n//# sourceURL=webpack://2.-webpack/./src/index.js?\n}");
 
 /***/ }),
 
@@ -24,7 +24,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _mo
 /*!*************************!*\
   !*** ./src/modulo 1.js ***!
   \*************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   nome: () => (/* binding */ nome),\n/* harmony export */   sobrenome: () => (/* binding */ sobrenome),\n/* harmony export */   soma: () => (/* binding */ soma)\n/* harmony export */ });\nconst nome = \"Bruno\";\nconst sobrenome = \"Alencar\";\nfunction soma(a, b) {\n  return a + b;\n}\n\n//EXPORTAÇÃO NOMEADA POR LISTA\n\n\n//# sourceURL=webpack://2.-webpack/./src/modulo_1.js?\n}");
 
